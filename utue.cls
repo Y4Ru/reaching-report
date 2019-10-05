@@ -32,21 +32,7 @@ Design for Computer Graphics]
     \vspace*{1ex}
     \normalsize \@date
     \endgroup
-  \end{center}  
-  \vfill   
-  \colorbox{ecs100}{
-    \hspace*{0.50\linewidth}
-    \parbox{.50\linewidth}{
-      \textcolor{white}
-      {  
-        \begingroup
-        \sffamily\scshape
-        \raggedleft \if\@subtitle\relax\else\Large\@subtitle\\\fi
-        \raggedleft \normalsize Advanced Topics in CG and CV\\
-        \endgroup
-      }
-    }
-  }
+  \end{center}
 
   %Adds an empty page
   \clearpage
